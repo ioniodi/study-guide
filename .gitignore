@@ -1,5 +1,5 @@
 .DS_Store
 venv
-.pdf
-.docx
-.html
+*.pdf
+*.docx
+*.html
