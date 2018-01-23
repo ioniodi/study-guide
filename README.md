@@ -9,3 +9,12 @@
 Η οργάνωση και επεξεργασία των αρχείων θα γίνει σε συντονισμό με το συγγενικό αποθετήριο κατασκευής ιστοσελίδας, έτσι ώστε στο μέλλον από ένα μόνο σετ πηγαίων αρχείων να παράγεται τόσο η ιστοσελίδα όσο και ο οδηγός σπουδών.
 
 Τα εργαλεία που χρησιμοποιούμε καθώς και η ροή εργασίας που ακολουθούμε μπορεί να εφαρμοστεί σε πολλά παρόμοια έργα.
+
+## Σχετικά εργαλεία
+
+https://github.com/electricbookworks/electric-book
+https://github.com/evangoer/pandoc-ebook-template
+https://github.com/jd/asciidoc-book-toolchain
+https://github.com/softcover/softcover
+https://github.com/magicbookproject/magicbook
+https://pubsweet.org/docs/core/overview.html
