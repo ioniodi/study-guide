@@ -1,4 +1,3 @@
-%Introduction to Computer Science
 
 ## Εισαγωγή στην Επιστήμη των Υπολογιστών (κορμού)
 
