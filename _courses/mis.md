@@ -1,4 +1,3 @@
-%Introduction to Information Systems
 
 ## Εισαγωγή στα Πληροφοριακά Συστήματα (κορμού)
 
