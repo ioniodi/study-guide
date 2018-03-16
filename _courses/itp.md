@@ -1,4 +1,3 @@
-%Introduction to Computer Programming
 
 ## Εισαγωγή στον Προγραμματισμό (κορμού)
 
