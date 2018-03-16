@@ -1,4 +1,3 @@
-%Theory of Probability
 
 ## Πιθανότητες (κορμού)
 
