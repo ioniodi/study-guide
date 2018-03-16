@@ -1,4 +1,3 @@
-%Discrete Mathematics
 
 ## Διακριτά Μαθηματικά (κορμού)
 
