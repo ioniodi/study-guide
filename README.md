@@ -19,3 +19,4 @@ https://github.com/jd/asciidoc-book-toolchain
 https://github.com/softcover/softcover
 https://github.com/magicbookproject/magicbook
 https://pubsweet.org/docs/core/overview.html
+https://bookdown.org/home/about/
