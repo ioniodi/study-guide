@@ -11,12 +11,18 @@
 
 Τα εργαλεία που χρησιμοποιούμε καθώς και η ροή εργασίας που ακολουθούμε μπορεί να εφαρμοστεί σε πολλά παρόμοια έργα, π.χ., [leanpub](https://leanpub.com/)
 
-## Σχετικά εργαλεία
+## Σχετικά έργα και εργαλεία
 
 https://github.com/electricbookworks/electric-book
+
 https://github.com/evangoer/pandoc-ebook-template
+
 https://github.com/jd/asciidoc-book-toolchain
+
 https://github.com/softcover/softcover
+
 https://github.com/magicbookproject/magicbook
+
 https://pubsweet.org/docs/core/overview.html
+
 https://bookdown.org/home/about/
