@@ -1,6 +1,6 @@
 # Αποθετήριο πηγαίων αρχείων για την δυναμική δημιουργία του Οδηγού Σπουδών
 
-Για την δημιουργία του Οδηγού Σπουδών θα χρησιμοποιήσουμε τα εργαλεία [pandoc](http://pandoc.org/) και [weasyprint](http://weasyprint.org/)
+Για την δημιουργία του Οδηγού Σπουδών θα χρησιμοποιήσουμε τα εργαλεία [pandoc](http://pandoc.org/) και [weasyprint](http://weasyprint.org/), τα οποία βασίζονται στην γραμμή εντολών και δουλεύουν καλύτερα σε συστήματα τύπου UNIX, π.χ, Linux, MacOSX. Με αρκετή υπομονή και επιμονή μερικές φορές δουλεύουν και σε Windows WSL.
 
 Το αρχικό αρχείο δημιουργήθηκε με μετατροπή από αρχείο odt και docx σε md και περιέχει δεδομένα που δεν χρειάζονται ή που χρειάζονται βελτίωση.
 
@@ -11,11 +11,18 @@
 
 Τα εργαλεία που χρησιμοποιούμε καθώς και η ροή εργασίας που ακολουθούμε μπορεί να εφαρμοστεί σε πολλά παρόμοια έργα, π.χ., [leanpub](https://leanpub.com/)
 
-## Σχετικά εργαλεία
+## Σχετικά έργα και εργαλεία
 
 https://github.com/electricbookworks/electric-book
+
 https://github.com/evangoer/pandoc-ebook-template
+
 https://github.com/jd/asciidoc-book-toolchain
+
 https://github.com/softcover/softcover
+
 https://github.com/magicbookproject/magicbook
+
 https://pubsweet.org/docs/core/overview.html
+
+https://bookdown.org/home/about/
