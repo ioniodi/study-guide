@@ -7,6 +7,6 @@ uri: "http://195.251.111.111:8085/eclass/main/portfolio.php"
 code: DIGAPIN
 semester: 2
 type: "Υποχρεωτικό κατ'επιλογήν"
-hours: 3
+hours: 5
 ects: 5
 ---
