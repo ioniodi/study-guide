@@ -1,0 +1,1 @@
+intro-structure for msc
