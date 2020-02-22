@@ -1,0 +1,8 @@
+---
+documentclass: tufte-handout
+toc: true 
+papersize: a4
+link-citations: true
+nocite: |
+  @*
+---
